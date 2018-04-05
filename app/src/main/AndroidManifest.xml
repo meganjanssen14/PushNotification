@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.meganjanssen14.pushnotification">
 
+    <!--IMPORTANT  to add!-->
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 
     <application
